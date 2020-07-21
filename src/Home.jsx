@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Commom
-        name="Grow your business with"
+        name="Buy me a Coffee"
         imgsrc={web}
         visit="/service"
         btname="Get Started"
